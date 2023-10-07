@@ -1,8 +1,8 @@
 
-### 🚀 About Me
-##Chaitanya Arora
+## 🚀 About Me
+Chaitanya Arora
 
-##Full Stack Development
+Full Stack Development
 
 "Becoming Better Everyday, One step at a time"
 
